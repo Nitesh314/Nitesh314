@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitesh314" alt="nitesh314" /></a> </p>
 
-- 🔭 I’m currently working on **masai school**
+- 🔭 I’m currently studying on **masai school**
 
 - 🌱 I’m currently learning **backend java developer**
 
