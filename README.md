@@ -14,11 +14,11 @@
 
 - 👯 I’m looking to collaborate on **any awesome projects**
 
-- 👨‍💻 All of my projects are available at [https://ravicoder.vercel.app//](https://ravicoder.vercel.app//)
+- 👨‍💻 All of my projects are available at [https://nitesh314.github.io/](https://nitesh314.github.io/)
 
 - 💬 Ask me about **any tech related stuff, I will be happy to help**
 
-- 📫 How to reach me **ravicoder264@gmail.com**
+- 📫 How to reach me **nsshukla314@gmail.com**
   <br/>
   <br/>
 
