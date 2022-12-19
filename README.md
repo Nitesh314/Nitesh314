@@ -59,7 +59,7 @@
 <br/>
 <div >
   <p align="center">
-      <a href="https://github.com/ravinishadcoder/github-readme-streak-stats">
+      <a href="https://github.com/Nitesh314/github-readme-streak-stats">
           <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rameshmane7218's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ravinishadcoder&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
       </a>
   </p>
@@ -68,15 +68,15 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/rameshmane7218/github-readme-stats"><img alt="rameshmane7218's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ravinishadcoder&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ravinishadcoder/github-readme-stats"><img alt="ravinishadcoder's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravinishadcoder&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/rameshmane7218/github-readme-stats"><img alt="rameshmane7218's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nitesh314&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Nitesh314/github-readme-stats"><img alt="Nitesh314's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh314&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://github.com/ravinishadcoder/github-readme-activity-graph"><img alt="ravinishadcoder's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ravinishadcoder&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Nitesh314/github-readme-activity-graph"><img alt="Nitesh314's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nitesh314&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 ## Connect with me:
