@@ -1,6 +1,6 @@
 <img src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" width="100%"/>
 <h1 align="center">Hi 👋, I'm Nitesh Shukla</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate Java Back-End Developer from India</h3>
 
 <div style="padding:20px 0px">
 <p  align="center">I’m currently learning Java Back-End development 🔭 with a specialization in Java from Masai School. Quick learner and an aspiring Java Back-End developer with core knowledge of Java technology. Looking forward to applying and enhancing my skills and knowledge as a developer.</p>
