@@ -34,6 +34,9 @@
 
 </div>
 <br/>
+
+
+## 📊 My Github Stats
 <div >
   <p align="center">
       <a href="https://github.com/Nitesh314/github-readme-streak-stats">
@@ -41,9 +44,6 @@
       </a>
   </p>
 </div>
-
-## 📊 My Github Stats
-
   <br/>
     <a href="https://github.com/rameshmane7218/github-readme-stats"><img alt="rameshmane7218's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nitesh314&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Nitesh314/github-readme-stats"><img alt="Nitesh314's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh314&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
