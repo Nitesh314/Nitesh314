@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nitesh Shukla</h1>
 
 <h3 align="center">I'm a passionate Java Backend  developer. I do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nitesh314" alt="Nitesh314" /></a> </p>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitesh314&label=Profile%20views&color=0e75b6&style=flat" alt="Nitesh314" /> </p>
