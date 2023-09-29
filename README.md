@@ -1,7 +1,7 @@
 <img align="" width="1000" height="400" src="https://www.mo.agency/hubfs/So%20you%20want%20to%20be%20a%20web%20developer.png" alt="">
 <h1 align="center">Hi 👋, I'm Nitesh Shukla</h1>
 
-<h3 align="center">I'm a passionate Java Backend  developer. I do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h3>
+<h3 align="center">I'm a passionate Java Backend  developer. I do experiments and am always ready to learn new things 😃. I focus on writing clean, elegant, and efficient code ✨.</h3>
 
 
 
@@ -9,9 +9,9 @@
 
 I'm based in Mumbai, India
 
-💡 Some technologies that I love to working with includes Java, MySQL & Spring Boot.
+💡 Some technologies that I love working with include Java, MySQL & Spring Boot.
 
-😃 My interest includes Cybersecurity & Technology related things.
+😃 My interest includes Cybersecurity and technology-related things.
 
 📧 Email - nsshukla314@gmail.com
 
